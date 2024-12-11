@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+#KKR {
+  background-image: linear-gradient(to bottom, #5755a7, #0f172a);
+}
